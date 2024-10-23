@@ -1,10 +1,10 @@
 package main
 
 import (
-	"tour-of-go/flowControl"
+	"tour-of-go/advance"
 )
 
 func main() {
-	//basic.Run()
-	flowControl.Run()
+	//basic.Main()
+	advance.Main()
 }
