@@ -5,5 +5,11 @@ func Main() {
 	//Struct()
 	//Array()
 	//Map()
-	Function()
+	// Function()
+	//Methods()
+	//Interface()
+	//TypeAssertion()
+	//Errors()
+	// Readers()
+	Images()
 }
