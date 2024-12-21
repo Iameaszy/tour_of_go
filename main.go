@@ -1,10 +1,12 @@
 package main
 
 import (
-	"tour-of-go/advance"
+	"tour-of-go/concurrency"
 )
 
 func main() {
 	//basic.Main()
-	advance.Main()
+	//advance.Main()
+	// generics.Main()
+	concurrency.Main()
 }
